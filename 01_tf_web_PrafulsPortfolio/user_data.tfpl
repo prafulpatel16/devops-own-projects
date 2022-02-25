@@ -19,5 +19,5 @@ define('DB_USERNAME', '${user}');
 define('DB_PASSWORD', '${password}');
 define('DB_DATABASE', '${dbname}');
 ?>" > dbinfo.inc
-sudo git clone https://github.com/prafulpatel16/devops-projects.git
-sudo cp -r devop-projects/iPortfoliov1_emp/* /var/www/html/  
+sudo git clone https://github.com/prafulpatel16/php-html-projects.git
+sudo cp -r php-html-projects/iPortfoliov1_emp1/* /var/www/html/  
